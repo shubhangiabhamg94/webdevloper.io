@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Picture Gallary</title>
+	<h1>Best Pictures</h1>
+</head>
+<body>
+<div>
+	<img src="otchid -leaf.jpg">
+	<img src="nature.jpg">
+	<img src="plane.jpg">
+	<img src="sunflower.jpg">
+	<img src="water.jpg">
+</div>
+</body>
+</html>

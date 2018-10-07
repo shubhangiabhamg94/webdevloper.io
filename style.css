@@ -1,0 +1,14 @@
+body{
+	background-image: url(Photo.jpg);
+	background-size: 1400px 700px;
+}
+.homecenter{
+	text-align: center;
+	color: #002117;
+	border: 1px solid #17513F;
+	background-color: #17513F;
+}
+.para{
+	border: 1px solid #0E543F;
+	text-align: center;
+}

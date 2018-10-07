@@ -1,0 +1,34 @@
+body,html{
+	height: 100%;
+	width: 100%
+}
+header.start{
+	background-image: url("table.jpg");
+	background-size: cover;
+	height: 100%;
+}
+hr{
+	width: 10px;
+}
+.btn{
+	background-color: #445202;
+	text-transform: uppercase;
+	width: 150px;
+	height: 50px;
+	border-radius: 10px;
+}
+.feded{
+	font-size: 10px;
+}
+.btn-success:hover{
+	background-color: #91A437;
+	border-width: 2px;
+	cursor: pointer;
+}
+h1{
+	font-family: 'Charmonman', cursive;
+}
+header.space1 hr{
+	margin-top: 200px;
+	margin-bottom: 50px;
+}

@@ -1,0 +1,34 @@
+body,html{
+	width: 100%;
+	height: 100%;
+}
+hr {
+  max-width: 65px;
+  border-width: 3px;
+  border-color: #F05F44; 
+}
+header.start {
+  background-position: center;
+  background-image: url("header.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+.btn{
+background-color: 3497805;
+}
+header .hclass{
+	color: rgba(255,255,0,0.8);
+}
+
+header.start hr{
+margin-top: 200px;
+margin-bottom: : 100px;
+}
+
+.btn-xl {
+  padding: 1rem 2rem; 
+}
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44; }
